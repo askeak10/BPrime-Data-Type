@@ -2,7 +2,6 @@ import java.math.BigInteger;
 
 public class BPrime {
     private BigInteger primeNum;
-    private static int read;
 
     private boolean isPrime(BigInteger s) {
         boolean prime = true;
